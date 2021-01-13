@@ -7,3 +7,4 @@ This repo is only temporary made so I can learn git and nothing else
 1. open index(this changes is made with another branch).
 
 2.modify
+2. modify this 
